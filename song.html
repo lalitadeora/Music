@@ -1,0 +1,96 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song</title>
+    <link rel="stylesheet" href="style.css">
+   <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+</head>
+<body>
+    <div class="songs_hero">
+      <div class="song"  >
+        <img id="cover" alt="song">
+         
+        <h1  id="title"></h1>
+        <p id="artist"></p>
+       
+    
+<div class="player">
+  <audio id="audio" ></audio>
+
+  <button id="play" >▶️</button>
+
+  <span id="current">0:00</span>
+
+  <input type="range" id="progress"  value="0" min="0" max="100">
+
+  <span id="duration">0:00</span>
+</div>
+<div id="btnnext"><i class="fa-solid fa-angle-left"></i></div>
+    <div id="btnprevious"> <i class="fa-solid fa-angle-right"></i> </div>
+       </div> 
+
+    
+ </div>
+
+
+ <script src="./js/songss.js"></script>
+</body>
+</html> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- <script>
+let audio = document.querySelector("#audio");
+let platbtnn= document.getElementById("play");
+let progressbtn = document.getElementById("progress")
+platbtnn.addEventListener("click", ()=>{
+    if(audio.paused){
+        audio.play();
+        platbtnn.innerText="⏸️";
+        console.log("play")
+    }else{
+        audio.pause();
+        platbtnn.innerText="▶️";
+        console.log("pause")
+    }
+    
+})
+audio.addEventListener("timeupdate", () => {
+  progressbtn .value = (audio.currentTime / audio.duration) * 100;
+});
+
+progressbtn .addEventListener("input", () => {
+  audio.currentTime = (progress.value * audio.duration) / 100;
+});
+  
+ </script> -->
+   
+
+
+
+
+
+
+    

@@ -1,0 +1,41 @@
+body{
+  margin:0;
+  font-family: Arial;
+  background: linear-gradient(135deg,#000,#1a1a1a);
+  color:white;
+ 
+}
+.player{
+ height: 100vh;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/712/367/713/neon-guy-wearing-headphones-wallpaper-preview.jpg ");
+  background-repeat: no-repeat;
+ background-size: cover;
+background-position: center;
+ position: relative;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.player::before{
+  content: "";
+  background:rgba(0,0,0,0.6);
+  z-index:1;
+  position: absolute;
+  inset: 0;
+
+}
+
+
+.song_card{
+  position: relative;
+  z-index: 2;
+ height: 600px;
+  width: 400px;
+  background-color: rgba(255, 192, 203, 0.116);
+  backdrop-filter: blur(5px);
+  border: 1PX solid white;
+  border-radius: 20PX;
+ padding: 40px 60px;
+ text-align: center;
+
+}

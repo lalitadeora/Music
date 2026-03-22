@@ -2,7 +2,7 @@
   {
     "id":1,
     "title" : "Sahiba",
-    "img" : "img/sahiba.webp",
+    "img" : "img/sahiba.jpg",
     "audio" : "audio/sahiba.m4a",
    
      "artist": "Aditya Rikhari"
@@ -98,7 +98,7 @@
   {
     "id":10,
     "title" : "Samjho na",
-    "img" : "img/songimg10.webp",
+    "img" : "img/samjho na.jpg",
     "audio" : "audio/samjho na.m4a",
      "artist": "Aditya Rikhari"
      
@@ -109,7 +109,7 @@
 {
     "id":11,
     "title" : "Tainu Khabar nahi",
-    "img" : "img/songimg11.jpg",
+    "img" : "img/aman.jpg",
     "audio" : "audio/videoplayback.m4a",
      "artist": "Arijit Singh"
     
@@ -131,7 +131,7 @@
   {
     "id":13,
     "title" : "Bairi",
-    "img" : "img/din me",
+    "img" : "img/din me.jpg",
     "audio" : "audio/din main.m4a",
      "artist": "Pradeep Solanki, Heena"
      
@@ -140,8 +140,8 @@
  {
     "id":14,
     "title" : "Bairan",
-    "img" : "img/songimg14.webp",
-    "audio" : "audio/barian.m4a",
+    "img" : "img/barian.jpeg",
+    "audio" : "audio/bairan.m4a",
      "artist": "Arijit Singh"
      
       
@@ -160,7 +160,7 @@
   {
     "id":16,
     "title" : "Wishes ",
-    "img" : "img/wishes.webp",
+    "img" : "img/Wishes.jpg",
     "audio" : "audio/wishes.m4a",
      "artist": "Hasan Raheem"
      

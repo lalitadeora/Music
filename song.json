@@ -43,8 +43,8 @@
   {
     "id":5,
     "title" : "PAl Pal",
-    "img" : "img/songimg5.jpg",
-    "audio" : "audio/song5.mp3",
+    "img" : "img/pal pal.jpg",
+    "audio" : "audio/pal pal.m4a",
      "artist": "Arijit Singh"
      
       
@@ -55,7 +55,7 @@
     "id":6,
     "title" : "tu",
     "img" : "img/songimg6.jpg",
-    "audio" : "audio/song6.mp3",
+    "audio" : "audio/paro.m4a",
      "artist": "Arijit Singh"
      
       
@@ -66,7 +66,7 @@
     "id":7,
     "title" : "dooron dooron",
     "img" : "img/songimg7.jpg",
-    "audio" : "audio/song7.mp3",
+    "audio" : "audio/sahiba.m4a",
      "artist": "Arijit Singh"
      
       
@@ -77,7 +77,7 @@
     "id":8,
     "title" : "sitaare",
     "img" : "img/songimg8.webp",
-    "audio" : "audio/song8.mp3",
+    "audio" : "audio/sheesha.m4a",
      "artist": "Arijit Singh"
      
       
@@ -88,7 +88,7 @@
     "id":9,
     "title" : "sang rakhna ",
     "img" : "img/songimg9.webp",
-    "audio" : "audio/song9.mp3",
+    "audio" : "audio/not guilty.m4a",
      "artist": "Arijit Singh"
      
       
@@ -99,7 +99,7 @@
     "id":10,
     "title" : "tu mera koi na",
     "img" : "img/songimg10.webp",
-    "audio" : "audio/song10.mp3",
+    "audio" : "audio/samjho na.m4a",
      "artist": "Arijit Singh"
      
       
@@ -121,7 +121,7 @@
     "id":12,
     "title" : "Bheegi Bheegi",
     "img" : "img/songimg12.webp",
-    "audio" : "audio/song12.mp3",
+    "audio" : "audio/khat.m4a",
      "artist": "Arijit Singh"
      
       
@@ -132,7 +132,7 @@
     "id":13,
     "title" : "Saiyara",
     "img" : "img/songimg13.jpg",
-    "audio" : "audio/song13.mp3",
+    "audio" : "audio/din main.m4a",
      "artist": "Arijit Singh"
      
       
@@ -141,7 +141,7 @@
     "id":14,
     "title" : "Love",
     "img" : "img/songimg14.webp",
-    "audio" : "audio/song14.mp3",
+    "audio" : "audio/bairan.m4a",
      "artist": "Arijit Singh"
      
       
@@ -152,9 +152,19 @@
     "id":15,
     "title" : "Samjhawan ",
     "img" : "img/songimg15.webp",
-    "audio" : "audio/song15.mp3",
+    "audio" : "audio/videoplay.weba",
+     "artist": "Arijit Singh, Shreya Ghoshal"
+     
+      
+  },
+  {
+    "id":16,
+    "title" : "Wishes ",
+    "img" : "img/wishes.webp",
+    "audio" : "audio/wishes.m4a",
      "artist": "Arijit Singh, Shreya Ghoshal"
      
       
   }
+  
 ]

@@ -110,7 +110,7 @@
     "id":11,
     "title" : "Tainu Khabar nahi",
     "img" : "img/songimg11.jpg",
-    "audio" : "audio/song11.mp3",
+    "audio" : "audio/videoplayback.m4a",
      "artist": "Arijit Singh"
     
       
@@ -141,7 +141,7 @@
     "id":14,
     "title" : "Bairan",
     "img" : "img/songimg14.webp",
-    "audio" : "audio/bairan.m4a",
+    "audio" : "audio/barian.m4a",
      "artist": "Arijit Singh"
      
       

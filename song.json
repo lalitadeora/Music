@@ -1,11 +1,11 @@
 [
   {
     "id":1,
-    "title" : "saibo",
-    "img" : "img/songimg1.webp",
-    "audio" : "audio/song1.mp3",
+    "title" : "Sahiba",
+    "img" : "img/sahiba.webp",
+    "audio" : "audio/sahiba.m4a",
    
-     "artist": "Arijit Singh"
+     "artist": "Aditya Rikhari"
      
   },
   {
@@ -42,10 +42,10 @@
   },
   {
     "id":5,
-    "title" : "PAl Pal",
-    "img" : "img/pal pal.jpg",
+    "title" : "Pal Pal",
+    "img" : "img/pal.jpg",
     "audio" : "audio/pal pal.m4a",
-     "artist": "Arijit Singh"
+     "artist": "Afusic - Pal Pal"
      
       
     
@@ -53,10 +53,10 @@
   },
   {
     "id":6,
-    "title" : "tu",
-    "img" : "img/songimg6.jpg",
+    "title" : "Paro",
+    "img" : "img/paro.jpg",
     "audio" : "audio/paro.m4a",
-     "artist": "Arijit Singh"
+     "artist": " Aditya Rikhari"
      
       
     
@@ -64,10 +64,10 @@
   },
   {
     "id":7,
-    "title" : "dooron dooron",
-    "img" : "img/songimg7.jpg",
-    "audio" : "audio/sahiba.m4a",
-     "artist": "Arijit Singh"
+    "title" : "Dooron Dooron",
+    "img" : "img/dooron.jpg",
+    "audio" : "audio/dooron.m4a",
+     "artist": "Paresh Pahuja"
      
       
     
@@ -75,10 +75,10 @@
   },
   {
     "id":8,
-    "title" : "sitaare",
-    "img" : "img/songimg8.webp",
+    "title" : "Sheesha",
+    "img" : "img/sheesha.webp",
     "audio" : "audio/sheesha.m4a",
-     "artist": "Arijit Singh"
+     "artist": "Mitta Ror ft. Swara Verma "
      
       
     
@@ -86,10 +86,10 @@
   },
   {
     "id":9,
-    "title" : "sang rakhna ",
-    "img" : "img/songimg9.webp",
+    "title" : "Not Guilty ",
+    "img" : "img/not guilty.jpg",
     "audio" : "audio/not guilty.m4a",
-     "artist": "Arijit Singh"
+     "artist": "Dhanda Nyoliwala"
      
       
     
@@ -97,10 +97,10 @@
   },
   {
     "id":10,
-    "title" : "tu mera koi na",
+    "title" : "Samjho na",
     "img" : "img/songimg10.webp",
     "audio" : "audio/samjho na.m4a",
-     "artist": "Arijit Singh"
+     "artist": "Aditya Rikhari"
      
       
     
@@ -119,10 +119,10 @@
   },
   {
     "id":12,
-    "title" : "Bheegi Bheegi",
-    "img" : "img/songimg12.webp",
+    "title" : "Khat",
+    "img" : "img/khat.jpg",
     "audio" : "audio/khat.m4a",
-     "artist": "Arijit Singh"
+     "artist": "Navjot Ahuja"
      
       
     
@@ -130,16 +130,16 @@
   },
   {
     "id":13,
-    "title" : "Saiyara",
-    "img" : "img/songimg13.jpg",
+    "title" : "Bairi",
+    "img" : "img/din me",
     "audio" : "audio/din main.m4a",
-     "artist": "Arijit Singh"
+     "artist": "Pradeep Solanki, Heena"
      
       
   },
  {
     "id":14,
-    "title" : "Love",
+    "title" : "Bairan",
     "img" : "img/songimg14.webp",
     "audio" : "audio/bairan.m4a",
      "artist": "Arijit Singh"
@@ -150,10 +150,10 @@
   },
    {
     "id":15,
-    "title" : "Samjhawan ",
-    "img" : "img/songimg15.webp",
-    "audio" : "audio/videoplay.weba",
-     "artist": "Arijit Singh, Shreya Ghoshal"
+    "title" : "Protocol",
+    "img" : "img/protocol.jpeg",
+    "audio" : "audio/protocol.m4a",
+     "artist": "Amanraj Gill"
      
       
   },
@@ -162,7 +162,7 @@
     "title" : "Wishes ",
     "img" : "img/wishes.webp",
     "audio" : "audio/wishes.m4a",
-     "artist": "Arijit Singh, Shreya Ghoshal"
+     "artist": "Hasan Raheem"
      
       
   }

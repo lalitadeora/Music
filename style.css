@@ -663,6 +663,14 @@ box-shadow:
     flex-direction: column;
     gap: 15px;
   }
+
+         .copy {
+        color: white;
+        position: relative;
+        top: 70px;
+        margin: 20px;
+        height: 100px;
+      }
 }
 
 

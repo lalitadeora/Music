@@ -399,7 +399,7 @@ border: 1px solid rgba(255,255,255,0.2);
 
 .songs_hero{
  height: 100vh;
-  background-image: url("./img/herosong.jpg");
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQP-WJ8GhNGGFhkeyPpW8q8swc6kEiAGu1w&s"); //./img/herosong.jpg
   background-repeat: no-repeat;
  background-size: cover;
 background-position: center;

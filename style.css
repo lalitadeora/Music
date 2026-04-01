@@ -399,7 +399,7 @@ border: 1px solid rgba(255,255,255,0.2);
 
 .songs_hero{
  height: 100vh;
- background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQP-WJ8GhNGGFhkeyPpW8q8swc6kEiAGu1w&s"); //./img/herosong.jpg
+ background-image: url("https://i.pinimg.com/236x/f6/84/5b/f6845b386f4fa9d2d55aaa926e5ea51d.jpg"); //./img/herosong.jpg
   background-repeat: no-repeat;
  background-size: cover;
 background-position: center;
@@ -552,6 +552,13 @@ box-shadow:
     font-size: 40px;
     padding-left: 150px;
   }
+           .copy {
+        color: white;
+        position: relative;
+        top: 70px;
+        margin: 20px;
+        height: 100px;
+      }
 }
 
 

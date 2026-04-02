@@ -31,12 +31,10 @@
   },
   {
     "id":4,
-    "title" : "Akhiyaan Gulaab",
-    "img" : "img/akhiyan.webp",
-    "audio" : "audio/song4.mp3",
-     "artist": "Mitraz "
-     
-      
+    "title" : "Kitab",
+    "img" : "img/kitab.jpeg",
+    "audio" : "audio/kitab.m4a",
+     "artist": "Mr Dutt & Vipin Foji"
     
 
   },
@@ -64,7 +62,7 @@
   },
   {
     "id":7,
-    "title" : "Dooron Dooron",
+    "title" : "Jaane Na Tu",
     "img" : "img/dooron.jpg",
     "audio" : "audio/dooron.m4a",
      "artist": "Paresh Pahuja"

@@ -8,17 +8,7 @@
      "artist": "Aditya Rikhari"
      
   },
-   {
-    "id":2,
-    "title" : "Pal Pal",
-    "img" : "img/pal.jpg",
-    "audio" : "audio/pal pal.m4a",
-     "artist": "Afusic - Pal Pal"
-     
-      
-    
-
-  },
+ 
   {
     "id":2,
     "title" : "Mere Sapno Ki Rani",

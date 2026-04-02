@@ -30,16 +30,7 @@
     
 
   },
-  {
-    "id":4,
-    "title" : "With You",
-    "img" : "img/with you.jpg",
-    "audio" : "audio/withyou.m4a",
-     "artist": "- AP Dhillon"
-  
-    
-
-  },
+ 
    {
     "id":4,
     "title" : "With You",
@@ -55,7 +46,7 @@
     "id":5,
     "title" : "Pal Pal",
     "img" : "img/pal.jpg",
-    "audio" : "audio/pal pal.m4a",
+    "audio" : "audio/withyou.m4a",
      "artist": "Afusic - Pal Pal"
      
       
